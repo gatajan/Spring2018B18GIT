@@ -11,4 +11,9 @@ Orange
 Cayan
 123234
 Azure
+<<<<<<< HEAD
 Cyber yellow
+=======
+French Rose
+tulip
+>>>>>>> 4f7b7d98fbd33f01b1d419ca82a23bb2f77d5bc6
