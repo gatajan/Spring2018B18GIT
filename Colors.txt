@@ -4,10 +4,11 @@ black
 green
 yellow
 purple
-navy
+navygit pull
 pink
 white
 Orange
 Cayan
 123234
 Azure
+Cyber yellow
