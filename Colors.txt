@@ -4,3 +4,4 @@ white
 black
 Cyan
 cool
+cyber yellow
