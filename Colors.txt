@@ -3,4 +3,4 @@ red
 white
 black
 Cyan
-Yellow
+cool
