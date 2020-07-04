@@ -6,6 +6,11 @@ Cyan
 cool
 cyber yellow
 French Rose
+<<<<<<< Updated upstream
 Reks
 Violet
 Stashed changes
+=======
+>>>>>>> Stashed changes
+Violet
+>>>>>>> Stashed changes
