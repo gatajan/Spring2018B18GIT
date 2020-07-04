@@ -5,4 +5,8 @@ black
 Cyan
 cool
 French Rose
+<<<<<<< Updated upstream
 turkmen
+=======
+gardash
+>>>>>>> Stashed changes
