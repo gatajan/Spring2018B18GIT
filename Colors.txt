@@ -4,4 +4,8 @@ white
 black
 Cyan
 cool
+<<<<<<< Updated upstream
 cyber yellow
+=======
+French Rose
+>>>>>>> Stashed changes
