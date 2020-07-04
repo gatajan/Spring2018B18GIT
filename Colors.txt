@@ -10,3 +10,4 @@ white
 Orange
 Cayan
 123234
+Azure
