@@ -4,5 +4,4 @@ white
 black
 Cyan
 cool
-cyber yellow
 French Rose
