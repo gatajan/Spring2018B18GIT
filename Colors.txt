@@ -8,3 +8,4 @@ navy
 pink
 white
 Orange
+Cayan
